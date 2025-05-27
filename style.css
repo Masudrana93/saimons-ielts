@@ -1,0 +1,300 @@
+.brand-color{
+    background-color: #AE3941;
+    color: white;
+}
+
+.bg-color{
+   background-color: #AE3941;
+}
+
+.icon-color{
+    color: #AE3941;
+}
+
+/* Navbar css start  */
+.nav-link:hover {
+    color: #AE3941 !important;
+}
+.dropdown-item:hover {
+    background-color: #AE3941 !important;
+    color: white !important;
+}
+
+.box-shadow-delete:focus{
+   
+    box-shadow: none;
+}
+/* Navbar css end  */
+
+/* header top CSS Start */
+.top-menu ul li a {
+    text-decoration: none;
+    color: white;
+    padding:0 10px 0 10px;
+}
+.top-menu ul{
+    list-style: none;
+}
+.header-top-bg-color{
+    background-color: #AE3941;
+}
+
+/* header top CSS End */
+
+/* Navbar CSS Start */
+.nav-ft-size{
+    font-size: 13px;
+    font-weight: 500; 
+}
+.main-logo-size img{
+    width: 80px;
+    height: auto;
+}
+
+.footer-logo-size img{
+    width: 186px;
+    height: auto;
+}
+
+/* Navbar CSS End */
+
+/* Footer CSS Start */
+.footer-bg-color{
+    background-color: #121921;
+}
+.footer-address a{
+    color: gray;
+}
+.footer-address a:hover{
+    color: #AE3941;
+    transition: all 0.3s ease;
+}
+.footer-headings-color{
+    color: white;
+}
+.footer-company ul{
+    list-style: none;
+    padding-left: 0;
+}
+.footer-company ul li a{
+    text-decoration: none;
+    color: gray;
+}
+.footer-company ul li a:hover{
+    
+    color: #AE3941;
+    transition: all 0.3s ease;
+}
+
+.footer-courses ul{
+    list-style: none;
+    padding-left: 0;
+}
+.footer-courses ul li a{
+    text-decoration: none;
+    color: gray;
+}
+.footer-courses ul li a:hover{
+    color: #AE3941;
+    transition: all 0.3s ease-in-out;
+}
+.footer-getin-touch ul{
+    list-style: none;
+    padding-left: 0;
+}
+.footer-getin-touch ul li a{
+    text-decoration: none;
+    color: gray;
+    transition: all 0.3s ease-in-out;
+}
+.footer-getin-touch ul li a:hover{
+    color: #AE3941;
+    
+    
+}
+/* Footer CSS End  */
+
+
+
+/* Welcome section CSS Start  */
+
+
+
+/*** our courses section css start  ***/
+.our-courses-view-btn-hover a{
+border: 2px solid #AE3941 ;
+transition: all 0.3s ease;
+
+}
+
+.our-courses-view-btn-hover a:hover{
+border: 2px solid #AE3941 ;
+color: #AE3941;
+
+
+}
+
+/*** our courses section css end  ***/
+
+/*** English Speaking section css start  ***/
+
+.card-title:hover{
+    color: #AE3941;
+    transition: all 0.3s ease-in-out;
+}
+.next-btn-hover button:hover{
+    border-color: #AE3941;
+    color: #AE3941;
+}
+
+/*** English Speaking section css end  ***/
+
+
+/* Why to learn new skills section css start  */
+.bg-photo{
+    background-image: url(images/welcome_1.png);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.wh-bg-color{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.why-join-hover a{
+    border: 2px solid #AE3941 !important;
+    transition: all 0.3s ease !important;
+
+}
+.why-join-hover a:hover{
+    border: 2px solid #AE3941 !important;
+    color: white !important;
+    
+}
+
+
+ /* Why to learn new skills section css end  */   
+
+ /* Why choose us section css start  */
+.ch-bg-photo{
+    background-image: url(images/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-position: center; */
+    min-height: 700px;
+     
+
+}
+.ch-bg-color{
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 700px;
+    width: 100%;
+   
+}
+
+
+
+ /* Why choose us section css end  */  
+
+/* what people say section css start */
+ .customCssForSwiperSlide {
+    width: 45.5% !important; 
+}
+/* what people say section css end */
+
+/* single page css start  */
+
+.q-links:hover a {
+    color: white !important;
+    background-color: #AE3941 !important;
+    transition: all 0.3 ease-out !important;
+    
+}
+.sticky-overview{
+    position: sticky;
+    top:110px;
+}
+
+.sticky-quick{
+    position: sticky;
+    top:110px;
+}
+
+/* single page css end  */
+
+
+/* about-us page css start  */
+.for-text-justify{
+    text-align: justify; 
+}
+/* about-us page css end  */
+
+/* Video gallery section css start  */
+.vig-bg-photo{
+    background-image: url(images/welcome_1.png);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.vig-bg-color{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+ /* Video gallery section css end  */ 
+
+ /* contact us CSS start  */
+
+ .social-logo ul li{
+    list-style: none;
+ }
+
+  .social-logo ul li a {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+.social-logo ul li a:hover {
+    background-color: #AE3941;
+    border: 1px solid #AE3941;
+   
+}
+
+/* contact us CSS end */
+
+.social-logo-float ul li{
+    list-style: none;
+}
+.social-logo-float ul li a{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px white;
+    transition: all 0.3s ease;
+}
+.social-logo-float ul li a:hover{
+    color: black !important;
+}
