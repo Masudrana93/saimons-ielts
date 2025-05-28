@@ -152,7 +152,7 @@ color: #AE3941;
 
 /* Why to learn new skills section css start  */
 .bg-photo{
-    background-image: url(images/welcome_1.png);
+    background-image: url(images/bg-photo-3.jpg);
     height: 400px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -184,7 +184,7 @@ color: #AE3941;
 
  /* Why choose us section css start  */
 .ch-bg-photo{
-    background-image: url(images/bg1.jpg);
+    background-image: url(images/bg-photo-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -239,10 +239,11 @@ color: #AE3941;
 
 /* Video gallery section css start  */
 .vig-bg-photo{
-    background-image: url(images/welcome_1.png);
+    background-image: url(images/bg-photo-2.jpg);
     height: 300px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
     background-size: cover;
     
 }
@@ -277,10 +278,12 @@ color: #AE3941;
 .social-logo ul li a:hover {
     background-color: #AE3941;
     border: 1px solid #AE3941;
-   
+
 }
 
 /* contact us CSS end */
+
+/* Sroll to-top css Start  */
 
 .social-logo-float ul li{
     list-style: none;
@@ -298,3 +301,7 @@ color: #AE3941;
 .social-logo-float ul li a:hover{
     color: black !important;
 }
+.social-logo-float{
+    z-index: 10;
+}
+/* Sroll to-top css End */
