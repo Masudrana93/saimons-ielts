@@ -41,7 +41,7 @@
 }
 
 .top-menu ul li {
-    border-right: 2px solid gray;
+    border-right: 1px solid white;
     list-style: none;
     min-width: max-content;
     line-height: 20px;
