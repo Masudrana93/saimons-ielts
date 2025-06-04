@@ -41,10 +41,10 @@
 }
 
 .top-menu ul li {
-    border-right: 2px solid currentColor;
+    border-right: 2px solid gray;
     list-style: none;
     min-width: max-content;
-  
+    line-height: 20px;
 }
 
 .top-menu ul {
